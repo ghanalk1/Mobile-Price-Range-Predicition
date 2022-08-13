@@ -39,7 +39,7 @@
 > * Expensive phones have better pixel resolution.
 > * Most expensive phones are light-weight and have wider screens as compared to phones belonging to lower price ranges.
 
-### 2. Feature Enginneering
+### 2. Feature Engineering
 > * Feature scaling is a method used to normalize the range of independent variables or features of data. The scaling of features ensures that the weightage assigned to the features is unaffected by the value range they take. Here,we have used the Min-Max scaling method.
 > * Feature selection is the process of selecting a subset of features that are important in predicting the target variable from the entire  set of features in the dataset. We have used SelectKBest  method for selecting 12 most relevant features.
 
