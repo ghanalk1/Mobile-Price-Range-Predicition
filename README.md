@@ -44,6 +44,7 @@
 > * Feature selection is the process of selecting a subset of features that are important in predicting the target variable from the entire  set of features in the dataset. We have used SelectKBest  method for selecting 12 most relevant features.
 
 ### 3. Model Selection and Hyper parameter Tuning
+### Logistic Regression and SVM were the best models for predicting price range. Both the models scored 96.8% accuracy after tuning.
 
 
 
